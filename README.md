@@ -5,7 +5,7 @@ Manage your [Exton](https://exton.app) TON crypto wallet through an AI agent. Si
 ## Quick Start
 
 ```bash
-git clone https://github.com/exton-wallet/exton-wallet-skill.git \
+git clone https://github.com/azerrcom/Exton-Skill.git \
   ~/.openclaw/skills/exton-wallet
 
 bash ~/.openclaw/skills/exton-wallet/scripts/install.sh
